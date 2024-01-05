@@ -15,10 +15,10 @@
    A special Award of the Swarovski company, project Nirvana Prague 2013
    Project „Bohemia“ exhibited at Bohemian National Hall New York 2013
    Best of APLF Awards 2008, bag for Lanificio Bigagli, Hong Kong 2008',
-      "education": '2015-2017 Master ́s degree program, Academy of Arts, Architecture, and Design in Prague - Fashion and Shoe Design Studio
+      "education": `2015-2017 Master ́s degree program, Academy of Arts, Architecture, and Design in Prague - Fashion and Shoe Design Studio
       2014-2015 Moholy-Nagy University of Art and Design, Budapest, Photography studio
       2012-2016 Bachelor program, Academy of Arts, Architecture, and Design in Prague - Fashion and Shoe Design Studio
-      2008-2011 Secondary School of Applied Art Uherske Hradiste - Shoe Design Studio',
+      2008-2011 Secondary School of Applied Art Uherske Hradiste - Shoe Design Studio`,
       "contact": "pavlinamiklasoova@gmail.com",
             "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
