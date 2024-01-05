@@ -7,9 +7,9 @@
       "year": "2023",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1b.jpg",
+        "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1c.jpg"
       },
       "credits": "Michal Králíček"
     },
@@ -20,9 +20,8 @@
       "year": "2022",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P2.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P2a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P2b.jpg" 
       },
       "credits": "Robert Houzar"
     },
@@ -33,9 +32,7 @@
       "year": "2020",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P3.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P3a.jpg" 
       },
       "credits": "Filip Beránek"
     },
@@ -46,9 +43,10 @@
       "year": "2017",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P4.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P4a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P4b.jpg",
+        "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P4c.jpg",
+        "url-4": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P4d.jpg"
       },
       "credits": "Filip Beránek"
     },
@@ -59,9 +57,7 @@
       "year": "",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P5.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P5a.jpg" 
       },
       "credits": ""
     },
@@ -72,9 +68,9 @@
       "year": "",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P6.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P6a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P6b.jpg",
+        "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P6c.jpg"
       },
       "credits": ""
     },
@@ -85,9 +81,9 @@
       "year": "",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P7.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P7a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P7b.jpg",
+        "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P7c.jpg"
       },
       "credits": ""
     },
@@ -98,10 +94,9 @@
       "year": "2018",
       "images": {
         "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P8.jpg",
-        "url-1": "",
-        "url-2": "",
-        "url-3": ""
-      },
+        "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P8a.jpg",
+        "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P8b.jpg"
+            },
       "credits": ""
     },
     {
