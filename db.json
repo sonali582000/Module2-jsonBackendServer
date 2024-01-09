@@ -7,8 +7,8 @@
       "accomplishments": "Collaboration, Unstoppable campaign, Inspirations & Innovations Preciosa SS 2022 \n Hout couture exhibition \n 2020 participant, Internationaal Klompenmuseum Eelde, Netherlands \n Czech Grand Design 2018 nomination, Fashion Design category \n Czech Grand Design 2017 nomination, Fashion Design category \n Diploma Selection 2017 nomination, Designblok - Prague International Design Week \n Collective exhibition + fashion show, Bunka Graduate University Fashion Week, Tokyo 2017 \n The heritage fashion show, Fashionclash Festival Maastricht 2016 \n Best in Design, A winner of the Fashion Design Category Zlín 2016 \n A special Award of the Swarovski company, project Nirvana Prague 2013 \n Project „Bohemia“ exhibited at Bohemian National Hall New York 2013 \n Best of APLF Awards 2008, bag for Lanificio Bigagli, Hong Kong 2008",
       "education": "2015-2017 Master ́s degree program, Academy of Arts, Architecture, and Design in Prague - Fashion and Shoe Design Studio\n 2014-2015 Moholy-Nagy University of Art and Design, Budapest, Photography studio \n 2012-2016 Bachelor program, Academy of Arts, Architecture, and Design in Prague - Fashion and Shoe Design Studio \n 2008-2011 Secondary School of Applied Art Uherske Hradiste - Shoe Design Studio",
       "contact": "pavlinamiklasoova@gmail.com",
+      "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
             "images": {
-        "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
         "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1a.jpg",
         "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1b.jpg",
         "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1c.jpg"
@@ -20,8 +20,8 @@
       "title": "Swimwear Plove x Preciosa",
       "description": "The NUT collection is named after the Egyptian goddess of heaven, water and rebirth who protected the world from evil demons and darkness. The sun god Re appears at her feet in the morning, wanders over her body during the day and enters the underworld near her toes at night. Her body was covered in stars and you can become just such a goddess with this swimsuit jewel. With its appearance, the look will stand up not only in the water, but also as a luxurious bodysuit for a very special occasion. The collection consists of 14 pieces with a unique Preciosa crystal application.",
       "year": "2023",
+      "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
       "images": {
-        "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P1.jpg",
         "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1a.jpg",
         "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1b.jpg",
         "url-3": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P1c.jpg"
@@ -33,8 +33,8 @@
       "title": "Swimmwear Me, the canny Force",
       "description": "I consider swimsuits to be a medium pointing out the clear clash between used aspects of a certain product and a conceptual approach. I got inspired by the Japanese pearl-fishers that used to wear special diving wrapping clothes. Via the printing, I transfer the wrapping onto the material and through the new features, I refer to the past. I also use other illusory elements such as fish or lines. My aim is to create an illusion of three dimensions on two-dimensional space. The material similar to the human body disappears, becomes invisible and refers back to the naked body without clothing.",
       "year": "2022",
+      "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P2.jpg",
       "images": {
-        "thumbnail": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/SliderSideBar/P2.jpg",
         "url-1": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P2a.jpg",
         "url-2": "https://github.com/sonali582000/Module2-jsonBackendServer/blob/master/img/ProductDetails/P2b.jpg" 
       },
