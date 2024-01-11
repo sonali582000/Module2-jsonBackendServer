@@ -20,6 +20,12 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0d.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1c.jpg"
         }
       ],
       "credits": "Michal Králíček"
@@ -39,6 +45,12 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2b.jpg"
         }
       ],
       "credits": "Michal Králíček"
@@ -50,6 +62,18 @@
       "year": "2022",
       "thumbnail": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/SliderSideBar/P2.jpg",
       "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P3a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1c.jpg"
+        },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2a.jpg"
         },
@@ -68,6 +92,21 @@
       "images": [
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P3a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P2b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P5a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
         }
       ],
       "credits": "Filip Beránek"
@@ -90,6 +129,12 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P4d.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P6c.jpg"
         }
       ],
       "credits": "Filip Beránek"
@@ -103,6 +148,21 @@
       "images": [
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P5a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0d.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P1c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
         }
       ],
       "credits": ""
@@ -122,6 +182,15 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P6c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P7c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P7b.jpg"
         }
       ],
       "credits": ""
@@ -141,6 +210,15 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P7c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P5a.jpg"
         }
       ],
       "credits": ""
@@ -153,10 +231,22 @@
       "thumbnail": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/SliderSideBar/P8.jpg",
       "images": [
         {
-          "url-1": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8a.jpg"
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8a.jpg"
         },
         {
-          "url-2": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8b.jpg"
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P8b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P4b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P4c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P4d.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
         }
       ],
       "credits": ""
@@ -167,7 +257,26 @@
       "description": "Elsa sandals exude simplicity and elegance. The seamless and flexible material conforms to your feet while remaining sturdy and supportive, making them great for full-fledged everyday use.",
       "year": "2015",
       "thumbnail": "",
-      "images": [{ "url-1": "" }, { "url-2": "" }, { "url-3": "" }],
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P6a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P6b.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P6c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P0a.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P7c.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sonali582000/Module2-jsonBackendServer/master/img/ProductDetails/P7b.jpg"
+        }
+      ],
       "credits": ""
     }
   ],
